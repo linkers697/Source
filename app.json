@@ -2,7 +2,7 @@
 {
     "name": " RiteshMusic",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://files.catbox.moe/w3esa5.png",
+    "logo": "https://files.catbox.moe/taey93.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "21696829",
+        "value": "21911467",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "c0e23cf3dfa118239951a88bd0f4c6b7",
+        "value": "2e37d8eb31651b4d5c3391f8778c63a9",
         "required": true
       },
       "BOT_TOKEN": {
