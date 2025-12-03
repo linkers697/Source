@@ -1,6 +1,4 @@
-#⟶̽ जय श्री ༢།म >𝟑🙏🚩
-import uvloop
-uvloop.install()
+
 
 import asyncio
 from pyrogram import Client, errors
